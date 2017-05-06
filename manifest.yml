@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PracticaPc1Maura
+  host: PracticaPc1Maura
+  disk_quota: 1024M
